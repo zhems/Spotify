@@ -1,0 +1,201 @@
+[
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-17T15:55:36.538Z[UTC]",
+    "searchQuery" : "c",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-17T15:55:38.734Z[UTC]",
+    "searchQuery" : "venus ",
+    "searchInteractionURIs" : [
+      "spotify:track:0Z3xhSOhrawLV81YdiDiiJ",
+      "spotify:track:0Z3xhSOhrawLV81YdiDiiJ"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-17T23:51:35.605Z[UTC]",
+    "searchQuery" : "queens",
+    "searchInteractionURIs" : [
+      "spotify:playlist:4NOind9oIIUxaLR8uiWnnd"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T22:29:14.994Z[UTC]",
+    "searchQuery" : "queens",
+    "searchInteractionURIs" : [
+      "spotify:album:231jHEPm8jXsPThyoMfB7T"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-19T22:29:52.075Z[UTC]",
+    "searchQuery" : "i cant re",
+    "searchInteractionURIs" : [
+      "spotify:track:5TNm3crZ0PpIb4LDJOoBb1",
+      "spotify:track:5TNm3crZ0PpIb4LDJOoBb1",
+      "spotify:track:5TNm3crZ0PpIb4LDJOoBb1"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2020-12-20T00:38:06.149Z[UTC]",
+    "searchQuery" : "tut tut",
+    "searchInteractionURIs" : [
+      "spotify:track:3g08g4iOQgTgEV9cJ9gKfk"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-22T14:45:46.532Z[UTC]",
+    "searchQuery" : "dont",
+    "searchInteractionURIs" : [
+      "spotify:track:6ybViy2qrO9sIi41EgRJgx"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-22T16:46:25.797Z[UTC]",
+    "searchQuery" : "dengl",
+    "searchInteractionURIs" : [
+      "spotify:playlist:1jK4j1gPWW0Cd272CWU2uY"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-26T16:55:45.937Z[UTC]",
+    "searchQuery" : "t w",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-26T16:55:49.993Z[UTC]",
+    "searchQuery" : "twice",
+    "searchInteractionURIs" : [
+      "spotify:artist:7n2Ycct7Beij7Dj7meI4X0",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-26T16:56:04.177Z[UTC]",
+    "searchQuery" : "bts",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX08mhnhv6g9b"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-26T16:58:56.428Z[UTC]",
+    "searchQuery" : "bt",
+    "searchInteractionURIs" : [
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-26T16:58:58.555Z[UTC]",
+    "searchQuery" : "twice",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWYlCv3D85m6m",
+      ""
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-26T17:00:57.924Z[UTC]",
+    "searchQuery" : "blackpink",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX8kP0ioXjxIA"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2020-12-28T18:09:00.891Z[UTC]",
+    "searchQuery" : "keane",
+    "searchInteractionURIs" : [
+      "spotify:track:1SKPmfSYaPsETbRHaiA18G",
+      "spotify:track:0yac0FPhLRH9i9lOng3f81"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-05T02:34:38.043Z[UTC]",
+    "searchQuery" : "tyler cowe ",
+    "searchInteractionURIs" : [
+      "spotify:search:shows:tyler%20cowe%20"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-05T02:34:42.935Z[UTC]",
+    "searchQuery" : "tyler cowe ",
+    "searchInteractionURIs" : [
+      "spotify:show:0Z1234tGXD2hVhjFrrhJ7g"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-01-06T19:51:25.932Z[UTC]",
+    "searchQuery" : "tyl",
+    "searchInteractionURIs" : [
+      "spotify:show:0Z1234tGXD2hVhjFrrhJ7g"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-01-07T02:34:32.368Z[UTC]",
+    "searchQuery" : "this is tay",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX5KpP2LN299J"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-01-15T04:59:07.806Z[UTC]",
+    "searchQuery" : "Nuvole Bianche",
+    "searchInteractionURIs" : [
+      "spotify:track:3weNRklVDqb4Rr5MhKBR3D",
+      "spotify:track:3weNRklVDqb4Rr5MhKBR3D"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-01-27T03:12:29.948Z[UTC]",
+    "searchQuery" : "yum yum song",
+    "searchInteractionURIs" : [
+      "spotify:track:4zpDZnaJ83KPZEjDyHuscY"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-02-26T15:16:24.049Z[UTC]",
+    "searchQuery" : "taylor",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DX5KpP2LN299J"
+    ]
+  },
+  {
+    "platform" : "IPHONE_ARM64",
+    "searchTime" : "2021-03-02T16:57:50.135Z[UTC]",
+    "searchQuery" : "mo gui",
+    "searchInteractionURIs" : [
+      "spotify:track:2chz9PENZPB0VYNH1TsfsN"
+    ]
+  },
+  {
+    "platform" : "DESKTOP",
+    "searchTime" : "2021-03-04T14:19:14.256Z[UTC]",
+    "searchQuery" : "twice",
+    "searchInteractionURIs" : [
+      "spotify:playlist:37i9dQZF1DWYlCv3D85m6m"
+    ]
+  }
+]
